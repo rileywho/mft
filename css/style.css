@@ -5953,6 +5953,10 @@ body {
 #dashboard .field-trips a:last-child li {
   border-bottom: 1px solid #ffffff;
 }
+.location-icon {
+  width: 10px;
+  margin-top: -2px;
+}
 .other-img {
   margin-bottom: 0px;
 }
@@ -6095,6 +6099,15 @@ h4 {
   font-size: .8em;
   -webkit-font-smoothing: antialiased;
 }
+h5 {
+  font-family: "Proxima Nova", Helvetica, Arial, sans-serif;
+  font-style: normal;
+  font-weight: 300;
+  letter-spacing: 1.5px;
+  color: #333333;
+  font-size: .8em;
+  -webkit-font-smoothing: antialiased;
+}
 h2 {
   font-family: "Proxima Nova", Helvetica, Arial, sans-serif;
   font-style: normal;
@@ -6134,6 +6147,12 @@ p {
   margin-bottom: 0px;
   margin-top: 0px;
 }
+.trip h5,
+.card-list h5 {
+  margin-left: 10px;
+  margin-top: 5px;
+  margin-bottom: 0px;
+}
 .trip p,
 .card-list p {
   color: #333333;
@@ -6165,6 +6184,10 @@ p {
 }
 h-info h3 {
   margin-top: 0;
+}
+.map-button {
+  position: absolute;
+  right: 0px;
 }
 @media (max-width: 1249px) {
   .explore-section {
