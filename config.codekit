@@ -66,6 +66,56 @@
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsSetByUser": 0
 		},
+	"\/img\/app-mock.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2.92817e+06,
+		"inputAbbreviatedPath": "\/img\/app-mock.png",
+		"outputAbbreviatedPath": "\/img\/app-mock.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/cover-img-2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.21046e+06,
+		"inputAbbreviatedPath": "\/img\/cover-img-2.jpg",
+		"outputAbbreviatedPath": "\/img\/cover-img-2.jpg",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/cover-img-flip.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2.12076e+06,
+		"inputAbbreviatedPath": "\/img\/cover-img-flip.jpg",
+		"outputAbbreviatedPath": "\/img\/cover-img-flip.jpg",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/cover-img-p.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2.12076e+06,
+		"inputAbbreviatedPath": "\/img\/cover-img-p.png",
+		"outputAbbreviatedPath": "\/img\/cover-img-p.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/cover-img-web.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 288967,
+		"inputAbbreviatedPath": "\/img\/cover-img-web.jpg",
+		"outputAbbreviatedPath": "\/img\/cover-img-web.jpg",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/cover_image.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -76,6 +126,16 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/fav-icon.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/img\/fav-icon.png",
+		"outputAbbreviatedPath": "\/img\/fav-icon.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/flower-field.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -83,6 +143,26 @@
 		"initialSize": 126982,
 		"inputAbbreviatedPath": "\/img\/flower-field.jpg",
 		"outputAbbreviatedPath": "\/img\/flower-field.jpg",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/Frye_museum.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 220749,
+		"inputAbbreviatedPath": "\/img\/Frye_museum.jpg",
+		"outputAbbreviatedPath": "\/img\/Frye_museum.jpg",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/kakao.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8.30679e+06,
+		"inputAbbreviatedPath": "\/img\/kakao.jpg",
+		"outputAbbreviatedPath": "\/img\/kakao.jpg",
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -116,6 +196,46 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/mock-4.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/img\/mock-4.png",
+		"outputAbbreviatedPath": "\/img\/mock-4.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/mock-5.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 48674,
+		"inputAbbreviatedPath": "\/img\/mock-5.jpg",
+		"outputAbbreviatedPath": "\/img\/mock-5.jpg",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/mockup-2.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2.92817e+06,
+		"inputAbbreviatedPath": "\/img\/mockup-2.png",
+		"outputAbbreviatedPath": "\/img\/mockup-2.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/mockup-3.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 815706,
+		"inputAbbreviatedPath": "\/img\/mockup-3.png",
+		"outputAbbreviatedPath": "\/img\/mockup-3.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/mountains.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -123,6 +243,16 @@
 		"initialSize": 496434,
 		"inputAbbreviatedPath": "\/img\/mountains.jpg",
 		"outputAbbreviatedPath": "\/img\/mountains.jpg",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/placeholder.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 28258,
+		"inputAbbreviatedPath": "\/img\/placeholder.jpg",
+		"outputAbbreviatedPath": "\/img\/placeholder.jpg",
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -183,6 +313,16 @@
 		"initialSize": 1.13582e+06,
 		"inputAbbreviatedPath": "\/img\/pumpkin-trip-01.png",
 		"outputAbbreviatedPath": "\/img\/pumpkin-trip-01.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/Town_Hall.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 594178,
+		"inputAbbreviatedPath": "\/img\/Town_Hall.jpg",
+		"outputAbbreviatedPath": "\/img\/Town_Hall.jpg",
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},

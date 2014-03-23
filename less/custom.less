@@ -3,6 +3,9 @@ body{
 	background-color: @bg-color;
 
 }
+a:hover{
+	text-decoration: none;
+}
 .logo{
 	width: 100px;
 	margin-top: 0px;
@@ -49,7 +52,6 @@ body{
 	position: relative;
 }
 .trip-img{
-	margin-bottom: 45px;
 }
 .profile{
 	width: 75px;
@@ -94,7 +96,7 @@ body{
 			}
 	}
 	.field-trips{
-		margin-top: 75px;
+		margin-top: 0px;
 		width: 100%;
 		ul{
 			list-style-type: none;
@@ -112,6 +114,8 @@ body{
 			padding: 15px 0 15px 0px;
 			text-align: center;
 			border-top: 1px solid @white;
+			font-size: 1.1em;
+			text-transform:title;
 		}
 		a:last-child li{
 			border-bottom: 1px solid @white;
@@ -252,4 +256,90 @@ body{
 	height: 500px;
 	background-color: red;
 }
-
+.fake-search{
+	height: 20px;
+	width: 100px;
+	margin: 20px;
+	background-color: @white;
+	font-size: .5em;
+}
+.field-trip-title{
+	color: @white;
+	border-top: 1px solid #333;
+	width: 100%;
+	text-align: center;
+	font-size: 1.3em;
+	margin: 50px 0px 10px 0px;
+}
+.colab{
+	width: 53px;
+	margin: 0px auto;
+	img{
+		margin-top: -10px;
+		margin-bottom: 15px;
+		width: 15px;
+	}
+}
+.about{
+	margin-top: 20px;
+	background-color: #ededed;
+	max-width: 1600px;
+	margin: 0 auto;
+	padding-bottom: 30px;
+}
+.recent-trips{
+	color: @brand-primary;
+	font-size: 1.5em;
+	padding-bottom: 5px;
+	margin-bottom: -10px;
+	border-bottom: 1px @brand-primary solid;
+}
+.trip-row{
+	hr{
+		color: #000;
+	}
+}
+.contact{
+	background-color: @brand-primary;
+	height: 50px;
+	margin-top: 70px;
+	padding-bottom: 40px;
+	h3{
+		margin-top: 15px;
+		color: @white;
+		text-align: center;
+	}
+}
+.product-img{
+	margin-top: 85px;
+	padding-left: 50px;
+	max-height: 600px;
+	img{
+		width: 100%;
+	}
+}
+.mockup-desc{
+	padding-right: 70px;
+	ul{
+		margin-top: 60px;
+	}
+	li{
+		font-size: 1.5em;
+		margin-bottom: 40px;
+		font-weight: 500;
+	}
+}
+.logo-home{
+	width: 125px;
+	position: absolute;
+	left: 15%;
+	// margin-left: -20px;
+}
+.trip-section{
+	margin-top: 50px;
+}
+.img-container-trips{
+	max-height: 200px;
+	overflow: hidden;
+	margin-bottom: 45px;
+}
