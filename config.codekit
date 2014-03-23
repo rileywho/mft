@@ -96,13 +96,13 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/img\/location_icon-09.png": {
+	"\/img\/location-icon.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 0,
-		"inputAbbreviatedPath": "\/img\/location_icon-09.png",
-		"outputAbbreviatedPath": "\/img\/location_icon-09.png",
+		"initialSize": 1231,
+		"inputAbbreviatedPath": "\/img\/location-icon.png",
+		"outputAbbreviatedPath": "\/img\/location-icon.png",
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
