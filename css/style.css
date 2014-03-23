@@ -6343,4 +6343,7 @@ h-info h3 {
     text-align: center;
     font-size: 1em;
   }
+  .recent-trips {
+    margin-left: 20px;
+  }
 }
