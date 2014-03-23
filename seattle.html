@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head profile="http://www.w3.org/2005/10/profile">
+    <link rel="icon" 
+      type="image/png" 
+      href="img/myicon.png">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Secure</title>
+    <!-- Bootstrap -->
+    <link href="css/style.css" rel="stylesheet">
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+    <script type="text/javascript" src="//use.typekit.net/ovq1mow.js"></script>
+<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+  </head>
+  <body>
+  
+  
+  <div class="container dashboard" id="dashboard">
+    <a   href="home.html"><img class="img-responsive logo-dash" src="img/logo_final_white-02.png"></a>
+    <a class="user" href="#">
+      <div class="user-img">
+        <img class="img-responsive" src="img/profile-girl.png">
+      </div>
+      <h3>Amy Jones</h3>
+    </a>
+    <div class="field-trips">
+      <ul>
+        <a href="#">
+          <li>New York</li>
+        </a>
+        <a href="seattle.html">
+          <li class="seattle">Downtown Seattle</li>
+        </a>
+        <a href="#">
+          <li>Mt. Rainer</li>
+        </a>
+      </ul>
+    </div>
+  </div>
+  
+  <div class="container-fluid explore-section">
+
+    <div class="row trip-row explore map-extend">
+      <div class="title">
+        <h1>Downtown Seattle</h1>
+      </div>
+      
+      <div class="trip-container col-md-10 col-md-offset-1">
+        <div class="card-list">
+          <img class="img-responsive card-img"  src="img/lake-chelan.jpg" alt="Chelan">
+          <button class="add-button">Add</button>
+          <div class="h-info">
+            <h3>Lake Chelan</h3>
+            <h4></h4>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean porttitor tempor tellus, ut rhoncus dui iaculis vitae. Ut interdum nisl urna, non interdum lorem molestie at. Praesent ultrices ante ac aliquet porttitor. Donec eget dapibus arcu, facilisis pharetra est. Nullam sed iaculis massa.</p>
+          </div>
+          <div class="h-info-category">
+            <p class="category">location</p>
+            <div class="other-bar"></div>
+          </div>
+          <div class="h-info-details">
+            <ul>
+              <li class="hours">Hours:</li>
+              <li class="days"><span class="green">M T W T</span> F S S</li>
+              <li class="price">Price: <span class="green">$$</span></li>
+              <li class="vote">Votes: <span class="green">3</span></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+
+      <div class="trip-container col-md-10 col-md-offset-1">
+        <div class="card-list">
+          <img class="img-responsive card-img"  src="img/lake-chelan.jpg" alt="Chelan">
+          <button class="add-button">Add</button>
+          <div class="h-info">
+            <h3>Lake Chelan</h3>
+          </div>
+          <div class="h-info-category">
+            <p class="category">location</p>
+            <div class="other-bar"></div>
+          </div>
+        </div>
+      </div>
+    </div><!--End of row-->
+  <div class="row map"></div>
+  </div> <!--End of Trip Container-->
+
+
+<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+<script src="https://code.jquery.com/jquery.js"></script>
+<!-- Include all compiled plugins (below), or include individual files as needed -->
+<script src="js/bootstrap.min.js"></script>
+<script src="js/smooth-scroll.js"></script>
+<script type="text/javascript">
+  $(document).ready(function(){
+     $("#dashboard").height($(document).height());
+    $(window).resize(function(){
+        $("#dashboard").height($(document).height());
+    });
+});
+</script>
+<script type="text/javascript">
+  $(document).ready(function(){
+     $(".map-extend").height($(document).height());
+    $(window).resize(function(){
+        $(".map-extend").height($(document).height());
+    });
+});
+</script>
+<script type="text/javascript">
+  $(document).ready(function(){
+     $(".map").height($(document).height());
+    $(window).resize(function(){
+        $(".map").height($(document).height());
+    });
+});
+</script>
+  </body>
+</html>
