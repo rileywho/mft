@@ -6317,4 +6317,15 @@ h-info h3 {
     margin-bottom: 20px;
     font-weight: 500;
   }
+  .contact {
+    background-color: #39a645;
+    height: 50px;
+    margin-top: 70px;
+    padding-bottom: 40px;
+  }
+  .contact h3 {
+    margin-top: 5px;
+    color: #ffffff;
+    text-align: center;
+  }
 }
